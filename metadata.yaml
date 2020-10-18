@@ -1,0 +1,6 @@
+homepage: "https://taggernauta.com"
+documentation: "https://github.com/nicozanellato/TaggernautaTagGTM"
+versions:
+  # Latest version
+  - sha: 02c976be7d09222d79ed4dec8bd0ba3f7a03d312
+    changeNotes: Initial release.
